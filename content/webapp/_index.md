@@ -1,6 +1,10 @@
 ---
-title: Ondsel Lens
-#next: first-page
+title: Ondsel Lens Webapp
+weight: 1
+type: docs
+sidebar:
+  open: false  # Collapsed by default
+#next: first-pag
 ---
 
 Ondsel Lens is an online vaulting and product data management service for mechanical engineers and industrial designers. Lens will help you collaborate and iterate on your product designs, as well as showcase and share your personal work.
