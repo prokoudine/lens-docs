@@ -2,3 +2,5 @@ github.com/FreeCAD/lens-docs v0.0.0-20250814003308-fe163f978126 h1:ChCUCPn1GKe/v
 github.com/FreeCAD/lens-docs v0.0.0-20250814003308-fe163f978126/go.mod h1:ze5556OWqU3rzHMiJ9FsV+qxhFEYhWeX1NsuWLV995M=
 github.com/imfing/hextra v0.10.1 h1:W2vI4Hot7z9lRcTmRFRQ1rzpnybp2tTuY6yHsRDUXq4=
 github.com/imfing/hextra v0.10.1/go.mod h1:cEfel3lU/bSx7lTE/+uuR4GJaphyOyiwNR3PTqFTXpI=
+github.com/imfing/hextra v0.11.1 h1:8pTc4ReYbzGTHAnyiebmlT3ijFfIXiGu1r7tM/UGjFI=
+github.com/imfing/hextra v0.11.1/go.mod h1:cEfel3lU/bSx7lTE/+uuR4GJaphyOyiwNR3PTqFTXpI=
