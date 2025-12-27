@@ -1,6 +1,6 @@
 ---
 title: Ondsel Lens Documentation
-toc: false
+toc: true
 ---
 
 ## What is Ondsel Lens?
