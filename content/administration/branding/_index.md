@@ -8,6 +8,6 @@ sidebar:
 
 The dashboard allows you to manage various branding aspects of your Ondsel Lens instance:
 
-- Brand identity
-- Homepage content
-- Default model
+- [Brand identity](identity)
+- [Homepage content](homepage)
+- [Default model](default-model)
