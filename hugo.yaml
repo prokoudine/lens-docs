@@ -36,6 +36,9 @@ menu:
     - name: Desktop Addon
       url: /addon/
       weight: 3
+    - name: News
+      url: /news/
+      weight: 4
 #    - name: Docs
 #      pageRef: /docs
 #      weight: 1
@@ -63,4 +66,8 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/FreeCAD/lens-docs/edit/main/content"
+
+  banner:
+    key: "announcement"
+    message: "Ondsel addon v2015.11.21.01 released! 🎉 [See what's new here!](/news/2025/lens-addon-v2025-11-21-released)"
