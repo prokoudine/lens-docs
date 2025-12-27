@@ -27,30 +27,33 @@ markup:
 
 menu:
   main:
+    - identifier: documentation
+      name: Documentation
+      weight: 1
     - name: Administration
       url: /administration/
       weight: 1
+      parent: documentation
     - name: Web App
       url: /webapp/
       weight: 2
+      parent: documentation
     - name: Desktop Addon
       url: /addon/
       weight: 3
+      parent: documentation
     - name: News
       url: /news/
       weight: 4
-#    - name: Docs
-#      pageRef: /docs
-#      weight: 1
-#    - name: About
-#      pageRef: /about
-#      weight: 2
+    - name: Contributors
+      pageRef: /contributors
+      weight: 5
     - name: Search
-      weight: 4
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 7
       url: "https://github.com/FreeCAD/lens-docs"
       params:
         icon: github
