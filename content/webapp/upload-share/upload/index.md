@@ -3,6 +3,9 @@ id: lens-upload
 title: Upload 3D CAD Models
 description: Upload 3D CAD files to Ondsel Lens
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 This tutorial will guide you through the process of uploading a file to your workspace.

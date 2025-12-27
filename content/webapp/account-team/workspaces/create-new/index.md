@@ -3,6 +3,9 @@ title: Create a new workspace
 id: workspaces-create-new
 description: How to create a new workspace on Ondsel Lens
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 To create a new workspace, follow these steps:

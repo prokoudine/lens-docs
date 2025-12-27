@@ -3,6 +3,9 @@ title: Organize workspaces
 id: workspaces-files-and-directories
 description: How to manage workspaces on Ondsel Lens
 weight: 4
+type: docs
+sidebar:
+  open: true
 ---
 
 Inside a workspace, you can organize files into directories. To do so, click **Create Directory**, name the directory in a newly opened dialog and press **Enter** or click **Create** to confirm directory creation. Single-click the directory and then click **Add New File** to upload a file. All file types are supported, but mesh will be generated only for `FCStd`, `STEP`, and `OBJ` files.

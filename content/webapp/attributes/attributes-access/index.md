@@ -3,6 +3,9 @@ id: attributes-access
 title: Access model attributes
 description: How to make model attributes accessible for updating
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 To make a parametric model accessible to other Lens users, do the following:

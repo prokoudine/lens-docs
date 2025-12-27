@@ -3,6 +3,9 @@ id: promotions
 title: Promotions
 description: Using promotions to keep track of content you like
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 Promotions are a way to let other Lens users know what content made by others you recommend.

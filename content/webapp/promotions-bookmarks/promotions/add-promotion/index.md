@@ -3,6 +3,9 @@ id: promotions-add
 title: Add a promotion
 description: How to create a promotion
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 To promote a model on your organization page, follow these steps:

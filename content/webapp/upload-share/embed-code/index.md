@@ -3,6 +3,9 @@ id: embed-code
 title: Get embed code
 description: This tutorial will guide you through the process of getting an embed code for a share link
 weight: 5
+type: docs
+sidebar:
+  open: true
 ---
 
 This tutorial will guide you through the process of obtaining the embed code for a share link of a model.

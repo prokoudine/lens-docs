@@ -3,6 +3,9 @@ id: share-publicly
 title: Share a model publicly
 description: This tutorial will guide you through the process of creating a public share link for an active revision of your model
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 This tutorial will guide you through the process of creating a public share link for an active revision of your model.

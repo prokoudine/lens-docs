@@ -3,6 +3,9 @@ id: account-team
 title: Account and team
 description: How to manage accounts, organizations, and teams
 weight: 4
+type: docs
+sidebar:
+  open: true
 ---
 
 This section explain how to create new organizations, add team members, create and manage workspaces.

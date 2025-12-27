@@ -3,6 +3,9 @@ id: versioning
 title: Version control
 description: How to create and track revisions of your 3D CAD designs
 weight: 5
+type: docs
+sidebar:
+  open: false
 ---
 
 Ondsel Lens supports creating and managing versions of `.FCStd` files uploaded to workspaces. This applies to all tiers, free and paid.

@@ -3,6 +3,9 @@ id: account-settings
 title: Account settings
 description: Changing settings specific to you Ondsel Lens account
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 ## Accessing the settings

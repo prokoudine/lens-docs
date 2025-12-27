@@ -3,6 +3,9 @@ id: share-links
 title: Share links
 description: Learn about share links and their settings
 weight: 3
+type: docs
+sidebar:
+  open: true
 ---
 
 A share link is a way to make a model accessible to other users under certain conditions. You can create as many share links per model as you like. All share links have unique URLs, such as `https://lens.ondsel.com/share/672a106ce0f5e61b6639594f`.

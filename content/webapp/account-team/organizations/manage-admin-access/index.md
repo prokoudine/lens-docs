@@ -3,6 +3,9 @@ id: org-manage-admin-access
 title: Manage admin access
 description: How to manage admin access in your organization in Ondsel Lens
 weight: 5
+type: docs
+sidebar:
+  open: true
 ---
 
 ## Promoting users to admins

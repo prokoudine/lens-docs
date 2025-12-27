@@ -3,6 +3,9 @@ id: bookmarks-remove
 title: Remove a bookmark 
 description: How to remove a bookmark for a model on Lens
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 To removing a bookmark, follow these steps:

@@ -3,6 +3,9 @@ id: share-privately
 title: Share a model with PIN protection
 description: This tutorial will guide you through the process of creating a PIN-protected share link
 weight: 3
+type: docs
+sidebar:
+  open: true
 ---
 
 This tutorial will guide you through the process of creating a PIN-protected share link.

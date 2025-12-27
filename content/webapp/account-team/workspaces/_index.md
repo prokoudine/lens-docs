@@ -3,6 +3,9 @@ title: Workspaces
 id: workspaces
 description: How to use workspaces in Ondsel Lens
 weight: 4
+type: docs
+sidebar:
+  open: true
 ---
 
 This section explains how to create, manage, and delete workspaces in an organization.

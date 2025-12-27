@@ -3,6 +3,9 @@ title: Delete a workspace
 id: workspaces-delete
 description: How to delete a workspaces on Ondsel Lens
 weight: 5
+type: docs
+sidebar:
+  open: true
 ---
 
 To deleting a workspace, follow these steps.

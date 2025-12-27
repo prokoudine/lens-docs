@@ -3,6 +3,9 @@ title: Types of workspaces
 id: workspaces-types
 description: What workspace types are available in Ondsel Lens
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 Workspaces are a collection of files organized in directories. These files can be accessed by one or more people depending on administrative settings.

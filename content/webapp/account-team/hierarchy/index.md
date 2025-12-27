@@ -3,6 +3,9 @@ id: hierarchy
 title: Hierarchy
 description: The hierarchy of accounts, organizations, and workspaces
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 Lens follows a straightforward model where a user creates an organization, adds new members, then creates workspaces, and adds members of the parent organization to workspaces.

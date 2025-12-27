@@ -2,6 +2,9 @@
 title: Explore CAD models
 description: How to explore CAD models in Ondsel Lens
 weight: 3
+type: docs
+sidebar:
+  open: true
 ---
 
 ## Opening models

@@ -3,6 +3,9 @@ id: bookmarks
 title: Bookmarks
 description: How to use bookmarks to share items with team members
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 Bookmarks help storing links to Lens items you want you and your team members to revisit. They are saved for the entire organization.

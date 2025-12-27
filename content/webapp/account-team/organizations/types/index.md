@@ -3,6 +3,9 @@ id: org-types
 title: Types of organizations
 description: What organization types are available in Ondsel Lens
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 Organizations are one of the key concepts in Lens. It's an association of one or more users. Each organization can have multiple workspaces, open or private. There are three types of organizations in Lens.

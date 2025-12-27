@@ -2,6 +2,7 @@
 title: Upload & share
 description: Getting started with Ondsel Lens
 weight: 2
+type: docs
 ---
 
 This chapter will guide you through uploading and sharing your 3D CAD models

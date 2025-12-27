@@ -3,6 +3,9 @@ id: org-manage-users
 title: Manage users
 description: How to invite users to your organization in Ondsel Lens
 weight: 4
+type: docs
+sidebar:
+  open: true
 ---
 
 ## Inviting users to organizations

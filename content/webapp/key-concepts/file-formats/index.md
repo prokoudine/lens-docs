@@ -3,6 +3,9 @@ id: file-formats
 title: File formats
 description: What file formats Ondsel Lens supports 
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 ## Importing

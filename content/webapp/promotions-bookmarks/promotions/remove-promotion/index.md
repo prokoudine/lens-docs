@@ -3,6 +3,9 @@ id: promotions-remove
 title: Remove a promotion
 description: How to remove a promotion from your organization's page
 weight: 2
+type: docs
+sidebar:
+  open: true
 ---
 
 To remove a promoted item from your organization page, follow these steps:

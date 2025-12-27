@@ -3,6 +3,9 @@ id: bookmarks-add
 title: Add a bookmark 
 description: How to create a bookmark for a model on Lens
 weight: 1
+type: docs
+sidebar:
+  open: true
 ---
 
 To create a bookmark for a model, follow these steps:

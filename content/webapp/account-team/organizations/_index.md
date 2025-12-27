@@ -3,6 +3,9 @@ id: organizations
 title: Organizations
 description: How to manage organizations on Lens
 weight: 3
+type: docs
+sidebar:
+  open: true
 ---
 
 This section explains how to manage organizations on Ondsel Lens:

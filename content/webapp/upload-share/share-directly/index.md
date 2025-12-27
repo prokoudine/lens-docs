@@ -3,6 +3,9 @@ id: share-directly
 title: Share a model directly
 description: This tutorial will guide you through the process of creating a direct share link
 weight: 4
+type: docs
+sidebar:
+  open: true
 ---
 
 This tutorial will guide you through the process of creating a direct share on the model page.
