@@ -3,7 +3,7 @@ title: Install Ondsel Lens Server
 weight: 1
 type: docs
 sidebar:
-  open: true
+  open: false
 ---
 
 You can install Ondsel Lens in three ways:
