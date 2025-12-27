@@ -4,7 +4,6 @@ weight: 1
 type: docs
 sidebar:
   open: false  # Collapsed by default
-#next: first-pag
 ---
 
 With the Ondsel Lens addon for FreeCAD, you can collaborate on product designs with other team members: check out parts, create their revisions, and reuse existing parts in new assemblies.

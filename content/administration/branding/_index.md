@@ -6,4 +6,8 @@ sidebar:
   open: true
 ---
 
-TODO
+The dashboard allows you to manage various branding aspects of your Ondsel Lens instance:
+
+- Brand identity
+- Homepage content
+- Default model

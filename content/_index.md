@@ -19,7 +19,9 @@ This documentation covers the administration of your own Ondsel Lens instance, m
 
 ## What's Ondsel?
 
-Ondsel was a company built around the free and open-source FreeCAD project. The company maintained three products: the Lens PDM, a FreeCAD flavour called Ondsel Engineering Service, and Lens Addon for connecting FreeCAD to Ondsel Lens. The company shut down in November 2024 and transferred most of its intellectual property to the FreeCAD community.
+Ondsel was a company built around the free and open-source FreeCAD project. The company maintained three products: the Lens PDM, a FreeCAD flavour called Ondsel Engineering Service, and Lens Addon for connecting FreeCAD to Ondsel Lens.
+
+The company shut down in November 2024 and transferred most of its intellectual property to the FreeCAD community.
 
 ## Where is the source code?
 

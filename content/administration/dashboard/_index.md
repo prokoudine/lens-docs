@@ -19,5 +19,5 @@ E.g., for a locally running instance built with Docker, it would be [localhost:3
 The dashboard allows you to:
 
 - [Configure the branding](../branding) of your Lens instance
-- [View and modify key documents](../documents), such as privacy policy, terms of service, and signup survey prompt
+- [View and modify legal documents](../documents), such as privacy policy, terms of service, and signup survey prompt
 - [Remove registered users](../remove-users) from the system
