@@ -10,6 +10,6 @@ Ondsel Lens stores legal documents in a database and keeps all revisions so that
 
 The following documents can be edited:
 
-- Privacy Policy
-- Terms of Service
-- Survey Prompt
+- [Privacy policy](privacy-policy)
+- [Terms of service](terms-of-service)
+- [Survey prompt](survey-prompt)
