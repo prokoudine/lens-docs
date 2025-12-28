@@ -38,7 +38,7 @@ menu:
       url: /webapp/
       weight: 2
       parent: documentation
-    - name: Desktop Addon
+    - name: FreeCAD Addon
       url: /addon/
       weight: 3
       parent: documentation
@@ -77,4 +77,4 @@ params:
 
   banner:
     key: "announcement"
-    message: "Ondsel addon v2015.11.21.01 released! 🎉 [See what's new here!](/news/2025/lens-addon-v2025-11-21-released)"
+    message: "Lens is now available as a TrueNAS app! 🎉 [Find out more here!](/news/2025/lens-now-available-on-truenas/)"
