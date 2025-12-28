@@ -6,7 +6,7 @@ sidebar:
   open: false
 ---
 
-Ondsel Lens is an online vaulting and product data management service for mechanical engineers and industrial designers. Lens will help you collaborate and iterate on your product designs, as well as showcase and share your personal work.
+Ondsel Lens web app is the reference implementation of this product data management system with the most features supported, as compared to the FreeCAD addon.
 
 ![Ondsel Lens](ondsel-lens-public-1.png)
 
@@ -30,6 +30,6 @@ Ondsel Lens is an online vaulting and product data management service for mechan
 - Create a new workspace in your organization
 - Invite team members
 
-## Project Background
+## Project background
 
 Lens is built around FreeCAD, a free and open-source 3D CAD suite. It runs a containerized version of FreeCAD and uses some of the advanced features of the program.
