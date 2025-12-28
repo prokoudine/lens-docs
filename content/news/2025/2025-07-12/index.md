@@ -23,5 +23,5 @@ Here are the changes contributed by Amritpal:
 
 - Container orchestration with Docker Compose
 - Replacing AWS S3 with a local storage solution
-- FC-Worker redesign (L, 2 weeks)
+- FC-Worker redesign
 - Initial documentation on self-deployment
