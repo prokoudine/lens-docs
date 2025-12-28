@@ -5,7 +5,7 @@ description: Using promotions and bookmarks to keep track of content you like
 weight: 6
 type: docs
 sidebar:
-  open: true
+  open: false
 ---
 
 Lens has two features that help users keep track of public models they find interesting: promotions and bookmarks.

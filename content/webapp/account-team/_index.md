@@ -5,7 +5,7 @@ description: How to manage accounts, organizations, and teams
 weight: 4
 type: docs
 sidebar:
-  open: true
+  open: false
 ---
 
 This section explain how to create new organizations, add team members, create and manage workspaces.

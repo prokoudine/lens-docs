@@ -4,7 +4,7 @@ description: Key concepts of Ondsel Lens
 weight: 1
 type: docs
 sidebar:
-  open: true
+  open: false
 ---
 
 This chapter will guide you through various key concepts of Ondsel Lens:

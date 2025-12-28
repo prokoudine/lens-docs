@@ -6,7 +6,7 @@ weight: 8
 draft: true
 type: docs
 sidebar:
-  open: true
+  open: false
 ---
 
 FIXME

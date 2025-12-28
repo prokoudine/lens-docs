@@ -5,7 +5,7 @@ description: How to use custom properties in your 3D CAD designs
 weight: 7
 type: docs
 sidebar:
-  open: true
+  open: false
 ---
 
 Ondsel Lens supports customizing parametric FreeCAD models created using the VarSets system. Custom properties created with VarSets are called model attributes on Lens.
