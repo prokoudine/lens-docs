@@ -67,6 +67,10 @@ params:
     displayCopyright: false
     displayPoweredBy: false
 
+  theme:
+    default: system
+    displayToggle: true
+
   editURL:
     enable: false
     base: "https://github.com/FreeCAD/lens-docs/edit/main/content"
