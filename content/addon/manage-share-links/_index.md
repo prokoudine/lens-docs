@@ -8,9 +8,7 @@ sidebar:
 
 Share links are a way for other people to explore and interact with designs you uploaded to an Ondsel Lens server.
 
-
-
-- [Versions on Lens](version-on-lens)
-- [Create a new version](create-new-version)
-- [Open earlier versions](open-earlier-versions)
-- [Set an active version](set-active-version)
+- [Create share links](create-share-links)
+- [Configure share links](configure-share-links)
+- [Copy share links](copy-share-links)
+- [Delete share links](delete-share-links)
