@@ -5,6 +5,15 @@ title: Ondsel Lens
 module:
   imports:
   - path: github.com/imfing/hextra
+  mounts:
+    - source: content
+      target: content
+    - source: content/administration
+      target: content/administration
+    - source: content/webapp
+      target: content/webapp
+    - source: content/addon
+      target: content/addon
 
 markup:
   # allow raw html
@@ -18,41 +27,54 @@ markup:
 
 menu:
   main:
-    - name: Ondsel Lens
-      pageRef: /docs
+    - identifier: documentation
+      name: Documentation
       weight: 1
-#    - name: About
-#      pageRef: /about
-#      weight: 2
-    - name: Search
+    - name: Administration
+      url: /administration/
+      weight: 1
+      parent: documentation
+    - name: Web App
+      url: /webapp/
+      weight: 2
+      parent: documentation
+    - name: FreeCAD Addon
+      url: /addon/
+      weight: 3
+      parent: documentation
+    - name: News
+      url: /news/
       weight: 4
+    - name: Contributors
+      pageRef: /contributors
+      weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 7
       url: "https://github.com/FreeCAD/lens-docs"
       params:
         icon: github
-    - name: Discord
-      weight: 6
-      url: "https://discord.gg/w2cTKGzccC"
-      params:
-        icon: discord
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
-    logo:
-      path: favicon.svg
-#      dark: favicon-dark.jpg
-      width: 20
-      height: 20
+    displayLogo: false
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
+
+  theme:
+    default: system
+    displayToggle: true
 
   editURL:
     enable: false
     base: "https://github.com/FreeCAD/lens-docs/edit/main/content"
+
+  banner:
+    key: "announcement"
+    message: "Lens is now available as a TrueNAS app! 🎉 [Find out more here!](/news/2025/lens-now-available-on-truenas/)"
