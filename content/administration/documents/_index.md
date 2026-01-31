@@ -1,6 +1,6 @@
 ---
 title: Modify legal documents
-weight: 4
+weight: 5
 type: docs
 sidebar:
   open: false

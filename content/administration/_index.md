@@ -13,6 +13,7 @@ Learn how to:
 {{< cards cols="2" >}}
   {{< card link="install" title="Install Ondsel Lens" icon="server" >}}
   {{< card link="dashboard" title="Access admin dashboard" icon="cog" >}}
+  {{< card link="authentication" title="Set up authentication" icon="user" >}}
   {{< card link="branding" title="Configure branding" icon="color-swatch" >}}
   {{< card link="documents" title="Modify legal documents" icon="document" >}}
   {{< card link="remove-users" title="Remove users" icon="user-remove" >}}

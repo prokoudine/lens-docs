@@ -1,6 +1,6 @@
 ---
 title: Remove users
-weight: 5
+weight: 6
 type: docs
 sidebar:
   open: true
