@@ -1,6 +1,6 @@
 ---
 title: Configure branding
-weight: 3
+weight: 4
 type: docs
 sidebar:
   open: false
